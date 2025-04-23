@@ -21,7 +21,7 @@ An automated Instagram direct messaging bot that uses AI to generate personalize
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/insta-ai-dm-sender.git
+git clone https://github.com/rayen-ben-rhim/insta-ai-dm-sender.git
 cd insta-ai-dm-sender
 ```
 
